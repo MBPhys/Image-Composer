@@ -1,6 +1,6 @@
 # Image-Composer
 
-[![License](https://img.shields.io/pypi/l/Image-Composer.svg?color=green)](https://github.com/MBPhys/Image-Composer/raw/master/LICENSE)
+[![License](https://img.shields.io/pypi/l/napari-medical-image-formats.svg?color=green)](https://github.com/MBPhys/napari-medical-image-formats/raw/master/LICENSE)
 [![PyPI](https://img.shields.io/pypi/v/Image-Composer.svg?color=green)](https://pypi.org/project/Image-Composer)
 [![Python Version](https://img.shields.io/pypi/pyversions/Image-Composer.svg?color=green)](https://python.org)
 
