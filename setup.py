@@ -29,7 +29,7 @@ setup(
     author='Marc Boucsein, Robin Koch',
     license='BSD-3',
     url='https://github.com/MBPhys/Image-Composer',
-    description='A napari plugin  in order to compose a background image with an foreground image',
+    description='A napari plugin in order to compose a background image with a foreground image',
     long_description=read('README.md'),
     long_description_content_type='text/markdown',
     packages=find_packages(),

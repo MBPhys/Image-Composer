@@ -5,7 +5,7 @@
 [![Python Version](https://img.shields.io/pypi/pyversions/Image-Composer.svg?color=green)](https://python.org)
 
 
-A napari plugin  in order to compose a background image with an foreground image.
+A napari plugin in order to compose a background image with a foreground image.
 
 ----------------------------------
 
