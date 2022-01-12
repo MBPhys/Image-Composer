@@ -19,7 +19,7 @@ import napari
 @magic_factory(layout='vertical', 
                call_button="Compose",
                auto_call=False)                  
-def Compose_Images(viewer: 'napari.viewer.Viewer'  ,
+def Composer(viewer: 'napari.viewer.Viewer'  ,
     Background: 'napari.layers.Image', Foreground: 'napari.layers.Image') ->LayerDataTuple:
        
     if Background and Foreground is not None:
@@ -44,5 +44,5 @@ def Compose_Images(viewer: 'napari.viewer.Viewer'  ,
 
 @napari_hook_implementation
 def napari_experimental_provide_dock_widget():
-    return Compose_Images
+    return Composer
 
